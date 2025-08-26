@@ -88,7 +88,6 @@ Generated VCF files include:
 ## File Structure
 
 ```
-vcf-generator/
 ├── index.html          # Main application file
 ├── README.md           # This documentation
 └── generated/          # Downloaded VCF files (created by browser)
